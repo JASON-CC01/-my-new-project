@@ -10,6 +10,8 @@ public class TestGitApplication {
         SpringApplication.run(TestGitApplication.class, args);
 
         System.out.println("Hello World!");
+
+        System.out.println("Hello World2!");
         System.out.println("Hello World2!");
         System.out.println("Hello World3!");
     }
